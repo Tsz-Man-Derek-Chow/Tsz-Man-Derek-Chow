@@ -5,5 +5,5 @@ I am an M.S. in Applied Analytics student from Columbia University who strives t
 This a repository to showcase the projects, certifications, and courses that I have completed.
 
 ## Table of Contents
-- Projects
+- [Projects](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects)
 - Certifications and Courses
