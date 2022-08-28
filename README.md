@@ -4,6 +4,8 @@ I am an M.S. in Applied Analytics student from Columbia University who strives t
 
 This a repository to showcase the projects, certifications, and courses that I have completed.
 
+[My LinkedIn Profile](https://www.linkedin.com/in/derekchow99/)
+
 ## Table of Contents
 - [Projects](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects)
 - [Certifications and Courses](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/certifications%20and%20coruses)
