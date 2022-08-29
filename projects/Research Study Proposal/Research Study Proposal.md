@@ -77,6 +77,7 @@ XBXB is the flagship chain restaurant brand of the listed company XBXB Catering 
 According to the 2021 semi-annual report of XBXB, the average cost per employee is 61601.4 RMB per year.  
 
 ![Figure 1: *The layout of a XBXB restaurant*](https://drive.google.com/uc?export=view&id=1OsZIpGsv-cEYLbbiyqkmXwHseLT-D2b3)
+Figure 1: *The layout of a XBXB restaurant*
 
 ### Haidilao International Background
 
