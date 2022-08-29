@@ -94,7 +94,8 @@ Traditional hotpot customer service can be interpreted as 6 steps: greeting, wai
 
 The active service model is constructed by referencing Haidilao's service model. It can be interpreted as a 9-step process, from customers arriving at the restaurant till they leave. When customers are dining, servers would constantly provide basic services such as offering drinks and snacks, confirming orders, delivering food and plates. Also, providing additional services that are not typically provided by restaurants, such as shoe polish, nail salons, and other recreational facilities. The active service model, like the one of Haidilao, is proven to be successful as 40% of customers revisit Haidilao multiple times because of its extraordinary service ([Zhang & Xu 2016](https://doi.org/10.1109/liss.2016.785447)).
 
-![Figure 2: *The Process of Active Service*](image4.png)
+![Figure 2: *The Process of Active Service*](https://drive.google.com/uc?export=view&id=1UKJhl2B28bF-HfI1AU0EdOACRAWMU7k_)
+Figure 2: *The Process of Active Service*
 
 ### American consumers’ expectations on service quality and style from restaurants
 
