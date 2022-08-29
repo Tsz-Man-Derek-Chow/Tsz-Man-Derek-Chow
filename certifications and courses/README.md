@@ -1,2 +1,2 @@
-[Certifications](#certifications)
+[Certifications](#certifications)  
 [Courses](#courses)
