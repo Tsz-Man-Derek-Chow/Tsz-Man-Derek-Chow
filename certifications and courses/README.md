@@ -7,7 +7,7 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ## Certifications
 
-### ![Alternate text](https://drive.google.com/uc?export=view&id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn) [Professional Data Analyst Certificate](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - DataCamp <img src="https://drive.google.com/uc?export=1GQJ2gsDppJOqmanvcXas6lQdcFjTw7A6" width="100" height="100">
+### ![Alternate text](https://drive.google.com/uc?export=view&id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn) [Professional Data Analyst Certificate](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - <img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200">
 
 #### [Description](https://www.datacamp.com/certificate/DA0017572637299)
 
@@ -20,3 +20,4 @@ I always devote time to learn the subjects that will make myself more competent 
 - Completed case study
 
 ## Courses
+https://drive.google.com/file/d/19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel/view?usp=sharing
