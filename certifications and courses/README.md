@@ -2,4 +2,4 @@
 [Courses](#courses)
 
 # Certifications
-![](https://drive.google.com/file/d/10J62WfSbRuwxCcaOawt4bw9hGsD92kug/view?usp=sharing) Professional Data Analyst Certificate (Datacamp)
+![](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/certifications%20and%20courses/images/logo.png) Professional Data Analyst Certificate (Datacamp)
