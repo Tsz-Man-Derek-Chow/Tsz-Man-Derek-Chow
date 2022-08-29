@@ -2,4 +2,4 @@
 [Courses](#courses)
 
 # Certifications
-![](https://drive.google.com/file/d/10J62WfSbRuwxCcaOawt4bw9hGsD92kug/view?usp=sharing) Professional Data Analyst Certificate (Datacamp)
+![](https://drive.google.com/uc?export=view&id=10J62WfSbRuwxCcaOawt4bw9hGsD92kug) Professional Data Analyst Certificate (Datacamp)
