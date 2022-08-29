@@ -1,4 +1,5 @@
 I always devote time to learn subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
+
 [Certifications](#certifications)  
 [Courses](#courses)
 
