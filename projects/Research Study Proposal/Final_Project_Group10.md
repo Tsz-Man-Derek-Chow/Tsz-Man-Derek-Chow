@@ -1,21 +1,3 @@
----
-title: 'Research Proposal: The Relationship between Customer Service and Profitability
-  of XBXB Hot Pot'
-author: 'Tsz Man Derek Chow, Xinyi Liang, Yadong Liu, Yantuo Zhang, and
-  Yanru Pan'
-date: "09 December 2021"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, comment="", warning = FALSE, message = FALSE, tidy.opts=list(width.cutoff=55), tidy = TRUE)
-library(tidyverse); library(DT); library(data.table); library(pwr)
-```
-
 # Part 1: Research Proposal
 
 ## Executive Summary
