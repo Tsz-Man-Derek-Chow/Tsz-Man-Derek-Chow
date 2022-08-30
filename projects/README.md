@@ -5,4 +5,8 @@
 
 ## Reddit’s r wallstreetbets and Stock Market
 
+### Description
+
 ## Research Study Proposal
+
+### Description
