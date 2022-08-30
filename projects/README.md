@@ -6,6 +6,12 @@
 ## Reddit’s r wallstreetbets and Stock Market
 
 ### Description
+- Assessed how the sentiments reflected on r/wallstreetbets’ posts and comments related to the stock market  
+- Parsed sentiments from unstructured r/wallstreetbets’ posts and comments text using R
+- Performed correlation analysis to examine the association between r/wallstreetbets’ sentiments and stock prices
+
+[Summary presentation slides](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market.pdf)
+
 
 ## Research Study Proposal
 
