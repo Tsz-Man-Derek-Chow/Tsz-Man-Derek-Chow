@@ -1,6 +1,8 @@
 # Projects
 
-- [Reddit’s r wallstreetbets and Stock Market](#reddit’s-r-wallstreetbets-and-stock-market)
-- Research Study Proposal
+- [Reddit’s r wallstreetbets and Stock Market](#reddits-r-wallstreetbets-and-stock-market)
+- [Research Study Proposal](#research-study-proposal)
 
 ## Reddit’s r wallstreetbets and Stock Market
+
+## Research Study Proposal
