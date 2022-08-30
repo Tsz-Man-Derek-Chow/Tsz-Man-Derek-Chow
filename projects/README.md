@@ -11,8 +11,8 @@
 - Performed correlation analysis to examine the association between r/wallstreetbets’ sentiments and stock prices
 
 [Summary presentation slides](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market.pdf)  
-[Python code used to retrieve posts and comments from r/wallstreetbets](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Retrieve%20r%20wallstreetbets'%20Posts%20and%20Comments.ipynb)
-
+[Python codes used to retrieve posts and comments from r/wallstreetbets](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Retrieve%20r%20wallstreetbets'%20Posts%20and%20Comments.ipynb)  
+[R codes used to conduct analysis](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market%20Analysis.R)
 
 ## Research Study Proposal
 
