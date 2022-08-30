@@ -3,7 +3,7 @@
   - [Reddit’s r wallstreetbets and Stock Market](#reddits-r-wallstreetbets-and-stock-market)
   - [Research Study Proposal](#research-study-proposal)
 
-## Reddit’s r wallstreetbets and Stock Market
+## Reddit’s r/wallstreetbets and Stock Market
 
 ### Description
 - Assessed how the sentiments reflected on r/wallstreetbets’ posts and comments related to the stock market  
