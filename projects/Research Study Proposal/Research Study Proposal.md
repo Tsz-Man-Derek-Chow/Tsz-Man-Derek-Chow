@@ -204,7 +204,7 @@ The research proposal in the previous section provides a detailed plan to conduc
 
 ### Function of Experiment Analysis
 
-First, we would like to build an analysis function for our simulations.  
+First, define function to conduct simulations.  
 
 ```{r}
 # set up
@@ -227,7 +227,7 @@ analyze.experiment <- function(data) {
 
 ### Assumption
 
-Also, we made some assumptions such as the mean profit (EBIT) of two groups, the expected effect size of two scenarios, and the standard deviation for two scenarios.  
+Assumptions about the mean profit (EBIT) of two groups, the expected effect size of two scenarios, and the standard deviation for two scenarios were set.  
 
 #### Basic Assumption
 
@@ -272,7 +272,7 @@ sd2 <- as.numeric(sd_loop_2 %>% filter(number == 7) %>% select(sd))
 datatable(power_tbl_2, rownames = F)
 ```
 
-To conduct the simulation, we already have a sample size of 50 and need to make assumptions about our sample mean, effect size, statistical power and standard deviation. Referring to the 2021 financial report of XBXB ([XBXB, 2021](https://www.solomon-ir.com/00520/2021092801309_c.pdf)), We use the average restaurant profit before interest and tax at the end of 2020, which is \$158,277, as the mean profit of the control groups in both scenarios. For scenario 1, since there should be no effect, we set an increase of \$`r mean_diff_1`, which is considered not meaningful, for the treatment group. For scenario 2,  we consider an increase of 5% of the profit mean of the control group to be meaningful enough and therefore, assign an increase of \$`r mean_diff_2` for the treatment group. Correspondingly, an effect size of 5% is assumed as it is considered meaningful. Then we define a statistical power of 90% for scenario 2, which is usually recognized as powerful enough. For scenario 1, as it is expected to generate a no-effect result, we need to control the power to be lower than *1 - power* which is 10%. In order to find out the proper standard deviation that can reach our expected power, we conducted the below for loop function using a trial standard deviation ranging from 100 to 15,000 for both scenarios. We then found out that when the standard deviation reaches `r sd1`, scenario 1 reaches a power of `r power1` and scenario 2 generates a power of `r power2`, which satisfies our expectations for statistical power of tests. The standard deviation of `r sd2`` is set.  
+To conduct the simulation, a sample size of 50 and make assumptions about the sample mean, effect size, statistical power and standard deviation are required. Referring to the 2021 financial report of XBXB ([XBXB, 2021](https://www.solomon-ir.com/00520/2021092801309_c.pdf)), the average restaurant profit before interest and tax at the end of 2020, which is $158,277, is determined as the mean profit of the control groups in both scenarios. For scenario 1, since no effect is expected, an increase of $100 in mean profit, which is considered not meaningful, is set for the treatment group. For scenario 2, an increase of 5\% of the profit mean of the control is considered meaningful. Therefore, an increase of $`r mean_diff_2` for the treatment group. Correspondingly, an effect size of 5% is assumed as it is considered meaningful. Then we define a statistical power of 90% for scenario 2, which is usually recognized as powerful enough. For scenario 1, as it is expected to generate a no-effect result, we need to control the power to be lower than *1 - power* which is 10%. In order to find out the proper standard deviation that can reach our expected power, we conducted the below for loop function using a trial standard deviation ranging from 100 to 15,000 for both scenarios. We then found out that when the standard deviation reaches `r sd1`, scenario 1 reaches a power of `r power1` and scenario 2 generates a power of `r power2`, which satisfies our expectations for statistical power of tests. The standard deviation of `r sd2`` is set.  
 
 ## Research Question
 
