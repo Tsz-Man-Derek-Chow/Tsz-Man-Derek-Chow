@@ -14,4 +14,4 @@
 - Simulated multiple scenarios of the proposed study using R to anticipate how the research design could be affected in operation.
 
 [Full research study proposal](http://rpubs.com/DCHOW99/936327)  
-[Summary presentation slides](https://drive.google.com/file/d/1tQsWKOJPo4N3XwaW-r1d2PZ7yucT1Pmh/view?usp=sharing)
+[Summary presentation slides](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Research%20Study%20Proposal/Research%20Study%20Proposal%20Summary%20Slides.pdf)
