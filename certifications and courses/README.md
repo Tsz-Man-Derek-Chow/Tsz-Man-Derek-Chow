@@ -21,8 +21,14 @@ I always devote time to learn the subjects that will make myself more competent 
   - Deliverables include:
     - Technical report
       - A data science manager as the indented audience
-      - Demonstrate ability to apply analytical techniques and concepts to derive solutions with robust supporting evidence
-      - Demonstrate ability to show the analytical approach taken in a clean and concise manner
-      - Demonstrate ability to justify the analytical techniques employed
+      - Demonstrated ability to apply analytical techniques and concepts to derive solutions with robust supporting evidence
+      - Demonstrated ability to show the analytical approach taken in a clean and concise manner
+      - Demonstrated ability to justify the analytical techniques employed
+    - Presentation
+      - A non-technical audience as the indented audience
+      - Demonstrated ability to communicate analytical concepts in a manner that audience with no relevant background could understand
+      - Demonstrated ability to convey outcome of the analysis and its relevance in the business context
+      - Demonstrated ability to reinforce the importance of the proposed solutions
+
 
 ## Courses
