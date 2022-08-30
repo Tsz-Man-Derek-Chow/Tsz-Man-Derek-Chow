@@ -1,8 +1,9 @@
 # load libraries
 pacman::p_load(tidytext, lubridate, janitor, tidyverse, ggplot2, lexicon, tidyquant)
 
-wsb_comm_19_21 <- read.csv('Csv files/wsb_hot_comments_19_21.csv', stringsAsFactors = FALSE, encoding = 'UTF-8')
-wsb_sub_19_21 <- read.csv('Csv files/wsb_hot_subs_19_21.csv', stringsAsFactors = FALSE, encoding = 'UTF-8')
+# load retrieved text
+wsb_comm_19_21 <- read.csv('wsb_hot_comments_19_21.csv', stringsAsFactors = FALSE, encoding = 'UTF-8')
+wsb_sub_19_21 <- read.csv('wsb_hot_subs_19_21.csv', stringsAsFactors = FALSE, encoding = 'UTF-8')
 glimpse(wsb_sub_19_21)
 
 # 1 Clean wasllstreetbet data ----
@@ -115,7 +116,7 @@ afinn_sent <- wsb_text %>%
 
 ## stock lexicon sentiment score ----
 ### import stock lexicon ----
-stock <- read.csv('Csv files/stock_lex.csv', stringsAsFactors = F, header = T)
+stock <- read.csv('stock_lex.csv', stringsAsFactors = F, header = T)
 colnames(stock) = c('word', 'POS', 'aff_score', 'neg_score')
 
 ### calculate sentiment ----
