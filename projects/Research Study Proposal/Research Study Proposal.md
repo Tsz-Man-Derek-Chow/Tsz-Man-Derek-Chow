@@ -2,20 +2,17 @@
 
 ## Executive Summary
 
-
 This research study proposal focuses on Xiabuxiabu HotPot’s (shortened as XBXB), a Chinese hot pot restaurant brand, strategy to enter the U.S. market. It intends to provide a strategic direction for XBXB to establish a unique position in the highly homogeneous and saturated hot pot industry to improve its competitiveness. The proposal defines XBXB's current service model as the on-demand service model and referencing Haidilao’s service model, a hot pot restaurant brand known for its excellent service, to define the active service model. A research plan is proposed to XBXB to evaluate whether the mean profit of XBXB’s U.S. restaurants would increase by employing the active service model compared to employing the on-demand service model. A randomized controlled experiment is included in the plan to evaluate the research question. The 50 XBXB restaurants that are expected to be opened in the U.S. would be the sample of the experiment. Through random assignment, half of the restaurants would be assigned to the treatment group, which would employ the active service model; the other half of the restaurants would be assigned to the control group, which would employ the on-demand service model. After the employee training and recruitment costs are included, the total profit (EBIT) of each of the sampled restaurants in a 3-month operation period would be recorded as the dependent variable of the experiment. A two-sample, one-sided t-test would be applied to the mean profit of the two groups to examine the hypothesis of the study. The conclusion drawn from this study would be based on the p-value of the statistical test as well as the magnitude of the effect size observed. Lastly, two scenarios—no effect observed and an expected effect observed—of the proposed hypothesis were simulated to refine the research plan. The results of the simulations are included in the proposal.  
   
-
 ## Statement of the Problem
 
-
-Xiabuxiabu HotPot (shortened as XBXB) is planning to expand into the U.S. market to increase its profitability.  
+Xiabuxiabu HotPot (shortened as XBXB) is planning to expand into the U.S. market to increase profitability.  
 
 Of all the cuisines in mainland China, hot pot accounts for the largest Chinese food market share at 14.1% ([Feng, 2019](https://www.xianjichina.com/news/details_281386.html)). Popularity also brings strong competition. According to the 2020 China Hotpot Category Special Report, the number of hot pot restaurants nationwide has exceeded 400,000 as of the first half of 2020 ([Wisdom Research, 2020](https://www.chyxx.com/research/202107/965829.html)).  
   
-The hot pot category has high standardization characteristics, and nearly one-third of the market is occupied by Sichuan-Chongqing hot pot. Traditional hot pot and shabu-shabu dishes are mostly animal products and fresh produce, such as beef, lamb, pork, animal organs, leafy vegetables, root vegetables, etc. Unlike other cuisines, the dishes are offered to the customers with minimal culinary processing. As a result, hot pot restaurants are highly homogeneous in the products that they offer.  
+The hot pot category is highly homogeneous in the food items that the restaurants offer. Hot pot dishes are mostly animal products and fresh produce, such as beef, lamb, pork, animal organs, leafy vegetables, root vegetables, etc. Unlike other cuisines, the dishes are offered to the customers with minimal culinary processing because the customers would be cooking the dishes in a hot pot themselves while they dine. As a result, it leaves little room for hot pot restaurants to differentiate with food.
 
-Unfortunately, American consumers rely heavily on the quality of food and service provided to evaluate Chinese restaurants ([Liu & Jang, 2009](https://doi.org/10.1016/j.ijhm.2008.10.008); [Ma et al., 2011](http://dx.doi.org/10.1080/1528008X.2011.541818)). XBXB is unable to change the industry's fate of product homogeneity, customer service is the only way for XBXB to differentiate itself. However, American consumers prefer the high-quality, responsive, and reliable service provided by restaurants, which is contrary to XBXB’s current on-demand service model ([Donthu & Yoo, 1998](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467059800100207); [Furrer et al., 2000](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467050024004); Hofstede, 1991, Lee et al., 2015). Therefore, changing the customer service model could be a key factor in XBXB's success in the US market.  
+Unfortunately, American consumers rely heavily on the quality of food and service provided to evaluate Chinese restaurants ([Liu & Jang, 2009](https://doi.org/10.1016/j.ijhm.2008.10.008); [Ma et al., 2011](http://dx.doi.org/10.1080/1528008X.2011.541818)). Since XBXB is unable to change the industry's fate of product homogeneity, customer service is the only way for XBXB to differentiate itself. However, American consumers prefer the high-quality, responsive, and reliable service provided by restaurants, which is contrary to XBXB’s current on-demand service model ([Donthu & Yoo, 1998](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467059800100207); [Furrer et al., 2000](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467050024004); Hofstede, 1991, Lee et al., 2015). Changing the customer service model could be a key factor for XBXB succeed in the US market.  
 
 Therefore, XBXB’s managers should explore the possibility of improving its customer service by adopting the active service model in its U.S. restaurants. This service model took reference from Haidilao Hotpot’s service model. Haidilao Hotpot, a leading brand in the hot pot category, is known for its extraordinary customer service that attracts an enormous amount of customers every day, even if they need to wait for hours before sitting in and enjoying the hot pot. Adopting the active service model in XBXB’s U.S. restaurants is likely to increase its customer satisfaction, thus leading to improvement in revenue
  ([Sun & Kim, 2013](https://doi-org.ezproxy.cul.columbia.edu/10.1016/j.ijhm.2013.05.008)).  
@@ -42,20 +39,17 @@ $$H_A: P_{Active} -P_{On-demand} \gt 0$$
 
 ## Importantce of the Study
 
-
 The results of this study would be beneficial to XBXB, considering the increasing concern of service quality in Western countries and among the younger generations. The findings of this study could reveal the value and importance of service in the restaurant industry and provide a strategic direction for XBXB to improve its competitiveness by establishing a unique position in the highly homogeneous and saturated hot pot industry. Additionally, the findings could potentially suggest a viable path for XBXB to expand to the U.S. market successfully.  
 
 The risk associated with implementing this study is minimal. XBXB is already familiar with the customer’s reaction to its current on-demand service. On the other hand, implementing the active service model, for its higher service quality, would only potentially increase the customers’ satisfaction and XBXB brand image with minimal potential adverse effects on both.  
 
 In addition, this study should be conducted because there is no previous research studying the effect of on-demand service and active service on a restaurant’s profit that could be referenced to. While there are costs associated with implementing this study, the potential short-term and long-term benefits resulting from this study would outweigh its costs.  
 
-
 ## Literature Review
-
 
 ### XBXB Hot Pot Background
 
-XBXB is the flagship chain restaurant brand of the listed company XBXB Catering Management (China) Holdings Co., Ltd., which was established in 1998. The business model of XBXB is simple, standard, and expandable. Different from traditional hot pot, XBXB provides a one-person, one-pot dining mode. It adopts a U-shaped bar table layout (as shown in Figure 1), which brings higher seating density and space flexibility, and all its restaurants adopt standardized design and decoration ([Chang, 2015](https://digital.hbs.edu/platform-rctom/submission/xiabu-xiabu-unique-hot-pot-chain/ )). Because of these characteristics, XBXB is particularly welcomed among post-95 consumers. By the end of 2020, XBXB has opened more than 1,000 directly-operated restaurants in 22 provinces in China, serving more than 100 million customers, and has become one of China's top ten hot pot brands. However, according to news reports, XBXB shut down nearly 200 of its restaurants due to the pandemic and market impact in 2021  ([Chinanews, 2021](http://www.chinanews.com/cj/2021/08-26/9551768.shtml )). The parent company of XBXB indicated in the 2021 mid-year report that as consumers' living standards improve, cost-effective food and beverage services can no longer meet their needs ([Xiabu, 2021](https://www.xiabu.com/)). Correspondingly, XBXB’s next year's strategic plan is to reposition the brand by improving overall quality and customer satisfaction ([Xiabu, 2021](https://www.xiabu.com/)).  
+XBXB is the flagship chain restaurant brand of the listed company XBXB Catering Management (China) Holdings Co., Ltd., which was established in 1998. The business model of XBXB is simple, standard, and expandable. Different from traditional hot pot, XBXB provides a one-person, one-pot dining experience. It adopts a U-shaped bar table layout (as shown in Figure 1), which brings higher seating density and space flexibility, and all its restaurants adopt standardized interior design, menu, and operation procedures ([Chang, 2015](https://digital.hbs.edu/platform-rctom/submission/xiabu-xiabu-unique-hot-pot-chain/ )). By the end of 2020, XBXB has opened more than 1,000 directly-operated restaurants in 22 provinces in China, serving more than 100 million customers, and has become one of China's top ten hot pot brands. However, XBXB shut down nearly 200 of its restaurants due to the pandemic and market impact in 2021  ([Chinanews, 2021](http://www.chinanews.com/cj/2021/08-26/9551768.shtml )). The XBXB's parent company indicated in the 2021 mid-year report that as consumers' living standards improve, cost-effective food and beverage services can no longer meet their needs ([Xiabu, 2021](https://www.xiabu.com/)). Correspondingly, XBXB’s strategic plan for 2022 involves reposition the brand by improving overall quality and customer satisfaction ([Xiabu, 2021](https://www.xiabu.com/)).  
 According to the 2021 semi-annual report of XBXB, the average cost per employee is 61601.4 RMB per year.  
 
 ![Figure 1: *The layout of a XBXB restaurant*](https://drive.google.com/uc?export=view&id=1OsZIpGsv-cEYLbbiyqkmXwHseLT-D2b3)
@@ -63,10 +57,8 @@ Figure 1: *The layout of a XBXB restaurant*
 
 ### Haidilao International Background
 
-Haidilao International Ltd., established in 1994 and publicly listed in 2018, has grown into a leading company in China’s domestic hot pot segment. Since its establishment, it has been continuously opening new restaurants. It expanded into the international market in 2012. Haidilao International operates over 1200 hot pot restaurants in China and 93 restaurants internationally  [(Decoding Markets, 2021)](https://seekingalpha.com/article/4451830-haidilao-top-of-the-hot-pots).    
+Haidilao International Ltd., established in 1994 and publicly listed in 2018, has grown into a leading company in China’s domestic hot pot segment. Since its establishment, it has been continuously opening new restaurants. It expanded into the international market in 2012. Haidilao International operates over 1200 hot pot restaurants in China and 93 restaurants internationally  [(Decoding Markets, 2021)](https://seekingalpha.com/article/4451830-haidilao-top-of-the-hot-pots).
 As mentioned earlier, the key to Haidilao’s success comes from its service innovation. Each service process at Haidilao is defined in detail. It begins before the customers enter the restaurant (as shown in Figure 2), aiming to deliver the most delicate and personalized service by trying to satisfy as many needs of its customers as possible ([Zhang & Xu 2016](https://doi.org/10.1109/liss.2016.785447)). Its service model is the reference of the active service model defined in this study. Haidilao’s innovative and systematic approach to customer service has established itself as the benchmark not only among hot pot restaurants but also across the restaurant industry. However, according to the 2021 semi-annual report of Haidilao, the average cost per employee is 101,942.3 RMB per year ([Haidilao International Holding Ltd, 2021](https://website.hdlcdns.com/website/file/57de83abe29d4bdc87613adfde10ec62)). It suggests that the active service model requires more training and additional expenses on employees.
-
-
 
 ### On-demand Service Model
 
@@ -83,7 +75,7 @@ Figure 2: *The Process of Active Service*
 
 American consumers expect high-quality, responsive, and reliable service—coinciding with the active service model defined in this proposal ([Donthu & Yoo, 1998](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467059800100207); [Furrer et al., 2000](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F109467050024004); Hofstede, 1991, Lee et al., 2015). Their satisfaction level increases with the number of times servers initiate service on them. Conversely, their satisfaction level decreases with the number of times they have to request service from servers (Lee et al., 2015).
 
-### The importance of service quality in Chinese restaurants in the U.S.
+### The importance of service quality in Chinese restaurants in the U.S
 
 Service quality is one of the most crucial attributes that customer satisfaction depends on ([Kim et al., 2009](https://doi.org/10.1016/j.ijhm.2008.03.005); [Ryu & Han, 2009](https://doi-org.ezproxy.cul.columbia.edu/10.1177%2F1096348009350624)). Especially for Chinese restaurants in the U.S. As American consumers have become more familiar with Chinese food, Chinese food has become less of an exotic taste for them ([George, 2001](https://doi.org/10.1300/J061v04n02_04); NRA, 2000). As a result, with less of an effect of the exotic factor from Chinese restaurants, American consumers rely heavily on the food quality and service quality provided to evaluate Chinese restaurants ([Liu & Jang, 2009](https://doi.org/10.1016/j.ijhm.2008.10.008); [Ma et al., 2011](http://dx.doi.org/10.1080/1528008X.2011.541818)).
 
@@ -97,24 +89,20 @@ A randomized controlled experiment would be conducted to evaluate the relationsh
 
 ### Population of Interest
 
-XBXB is expected to open 50 restaurants in the United States within 5 years. The population of interest of this study is all the 50 restaurants that are expected to be opened. Since XBXB’s expansion plan in the U.S. has yet to be implemented at the time this proposal is drafted. 
+XBXB is expected to open 50 restaurants in the United States within 5 years. The population of interest of this study is all the 50 restaurants that are expected to be opened. Since XBXB’s expansion plan in the U.S. has yet to be implemented at the time this proposal is drafted.
 Ideally, XBXB will consider the top 50 U.S. cities in terms of their GDP in 2020, disposable income per capita, and consumption level of the catering industry as the location of their restaurants. One restaurant in each city. Such layout lowers the density of restaurants, reducing the possibility that the same customer may go to different restaurants and experience different service styles. If the actual situation is different from what is assumed here, adjust this section as appropriate.  
 
 ### Sample Selection
-
 
 From the 50 restaurants, 25 restaurants would be randomly assigned to employ the active service model and 25 restaurants would be randomly assigned to employ the on-demand service model. A simple random sampling method is chosen to balance the individual differences between restaurants so that the cities where the restaurants in the two samples are located would be similar in terms of the key indicators: average GDP, average per capita disposable income, and average catering consumption level. In addition, such a sampling method could also balance the potential confounding factors such as the number of customers that visit each restaurant, and the number of employees in each restaurant in a random manner.  
 
 ### Sample Size
 
-
 Restrained by the number of restaurants that are expected to be opened in the U.S. Selecting a sample size of 50 restaurants out of all the 50 restaurants that are expected to be opened in the U.S. is intended to recruit the largest sample possible to improve the accuracy of the study’s results within the range of affordable costs. Sampling from 50 restaurants and applying treatment to 25 of them are feasible in operation and affordable in terms of cost for XBXB.  
- 
+
 An alternative method to decide the sample size is to calculate the exact size needed by assuming the statistical power and using required parameters such as standard deviation. This method is not applicable here because XBXB has not yet expanded to the U.S., and such required parameters are currently not available. Therefore, a sample size of 50 out of 50 can best support XBXB to obtain the most accurate research results within an acceptable cost range in terms of the current situation.  
 
-
 ### Operational Procedures
-
 
 #### Before this Research Proposal is Executed
 
@@ -154,7 +142,6 @@ During the operation period, the restaurants employing different service models 
 
 ### Brief Schedule
 
-
 Time Period | Schedule
 ------------|----------
 2 weeks     | File for approval from the Institutional Review Boards
@@ -165,16 +152,13 @@ Time Period | Schedule
 
 ### Data Collection
 
-
 XBXB’s finance & accounting department would provide the total profit data (EBIT) of each of the sampled restaurants in the 3 months of the operation period. Before the data is provided, XBXB’s finance & accounting department would subtract the employee training and recruitment costs of each restaurant incurred before the 3-month operation period from the total profit that each restaurant generated during the 3-month operation period.  
 
 ### Data Security
 
-
 Necessary measures would be implemented to ensure all the information collected for this study is kept securely. The collected information would be stored in an external hard drive that would require a passcode to access. When the hard drive is not being used, it would be kept in a secured lockbox. The hard drive would only be accessed in the same room where the lockbox is located. The hard drive would not be brought to another location. The information stored in the hard drive would not be stored on the devices being used to read and analyze the information. The devices being used to read and analyze the information would have adequate protection against computer viruses. Only the responsible researchers of this study would have the passcodes to access the devices being used to read and analyze the information, the hard drive, and the lockbox of the hard drive. After the study is completed, the information used for the study would be eliminated after 3 weeks of its completion.  
 
 ### Outcomes (Dependent Variables)
-
 
 This study examines the mean profit of the 50 sampled restaurants that are employing different service models to conclude whether the active service model can increase the profit of XBXB’s restaurants in the U.S. After the employee training and recruitment costs of each of the sampled restaurants incurred before the 3-month operation period are included, the total profit (EBIT) of each of the sampled restaurants in the 3 months of the operation period would be the dependent variable of the study. The profit of each of the sampled restaurants would be in the currency of the US dollar.  
 
@@ -182,23 +166,19 @@ The total profit of each of the sampled restaurants is selected as the dependent
 
 ### Treatments (Independent Variables)
 
-
 Since this study is intended to examine the on-demand and the active service models’ influence on the profitability of XBXB, the two service models would be independent variables of this study. After receiving the profit data of each of the 50 sampled restaurants from the finance & accounting department of XBXB, the independent variable, the on-demand or the active service model, would be coded to the corresponding restaurant in the profit data to indicate the service model that each of the restaurants had employed during the experiment.  
 
 #### Other Variables
 
-
 Apart from the dependent and independent variables specified, other variables are not necessary to measure to examine the research question of this study.  
 
 ## Statistical Analysis Plan
-
 
 After all the required data is gathered, a two-sample, one-sided t-test would be applied to the outcomes to evaluate the alternative hypothesis that employing the active service model would bring a significant increase in profits to XBXB’s restaurants. To evaluate this alternative hypothesis, it is assumed that employing the active service model would bring significant improvements in profitability. When applying the t-test on the outcomes, the estimated effect, and the p-value of the statistical test would be evaluated to understand the significance and the meaningfulness of the results. Also, the statistical power of the t-test would be evaluated to determine the probability of drawing a correct conclusion. If the t-test results in a p-value larger than 0.05, it could be concluded that the observed difference between the mean profit of the two groups are not significant, and such insignificant difference can be frequently observed in similar experiments. Therefore, the null hypothesis of the study would be rejected. Under this circumstance, XBXB should not employ the active service model in its restaurants in the U.S.  
 
 On the other hand, if the t-test results in a p-value lower than 0.05, it could be concluded that the difference in the mean profits of the two groups is significant. However, despite the result of the t-test indicating significance, the magnitude of the difference in the mean profits of the two groups would also be considered. According to XBXB’s expansion plan to the U.S., it is expected to have at least a 5% increase in profits among its U.S. restaurants ([Xiabu, 2021](https://www.xiabu.com/)). Thus, if the estimated effect is less than the expected increase of \$7,914, namely the earnings before interest and tax (EBIT), such improvement would not be considered meaningful to XBXB. Therefore, the implementation of the active service model would not be suggested. Otherwise, employing the active service model in XBXB’s U.S. restaurants would be regarded as an actionable and profitable strategy for XBXB if the estimated effect is greater than \$7,914.  
 
 ## Limitations and Uncertainties
-
 
 One of the limitations of the study arises from the potential that the customers could visit XBXB restaurants that are employing different service models. Their overlapping experience could cause the study to measure the outcomes that are not intended to measure. The customers’ ​​prior experience with a XBXB restaurant that employs one service model could affect their subsequent experience with another XBXB restaurant that employs another service model. The ideal scenario for this experiment would be that every customer only experiences one single service model, otherwise the customers would notice the difference in the service model employed and behave differently. However, it is impossible to eliminate this limitation because XBXB has no control over the customers who would visit the restaurants. Nevertheless, the potential confounding caused by this limitation is mitigated through the random assignment of the control and the treatment group of the experiment.  
 
@@ -212,18 +192,15 @@ Lastly, the restaurant's managers' and the employees’ awareness of their parti
 
 Even though all the limitations and uncertainties mentioned above may not be eliminated completely, necessary measures are implemented in this study to effectively mitigate the factors that could potentially impact the results. The chance of having results that diverge vastly from the actual phenomenon due to the limitations and uncertainties is rare. The results of the study are expected to be a close representation of the reality, therefore, can be interpreted accordingly.  
 
-
 # Part 2: Simulation of Effects
 
 ## Introduction and Assumptions
-
 
 The research proposal in the previous section provides a detailed plan to conduct the study. In this section, two scenarios of the proposed experiment are simulated to refine the research plan. In scenario 1, the treatment of different service models would have no significant effect on the average profit of the sampled restaurants. In scenario 2, an expected significant effect is observed.  
 
 * Scenario 1: No effect observed  
 
 * Scenario 2: An expected effect observed  
-
 
 ### Function of Experiment Analysis
 
@@ -297,13 +274,11 @@ datatable(power_tbl_2, rownames = F)
 
 To conduct the simulation, we already have a sample size of 50 and need to make assumptions about our sample mean, effect size, statistical power and standard deviation. Referring to the 2021 financial report of XBXB ([XBXB, 2021](https://www.solomon-ir.com/00520/2021092801309_c.pdf)), We use the average restaurant profit before interest and tax at the end of 2020, which is \$158,277, as the mean profit of the control groups in both scenarios. For scenario 1, since there should be no effect, we set an increase of \$`r mean_diff_1`, which is considered not meaningful, for the treatment group. For scenario 2,  we consider an increase of 5% of the profit mean of the control group to be meaningful enough and therefore, assign an increase of \$`r mean_diff_2` for the treatment group. Correspondingly, an effect size of 5% is assumed as it is considered meaningful. Then we define a statistical power of 90% for scenario 2, which is usually recognized as powerful enough. For scenario 1, as it is expected to generate a no-effect result, we need to control the power to be lower than *1 - power* which is 10%. In order to find out the proper standard deviation that can reach our expected power, we conducted the below for loop function using a trial standard deviation ranging from 100 to 15,000 for both scenarios. We then found out that when the standard deviation reaches `r sd1`, scenario 1 reaches a power of `r power1` and scenario 2 generates a power of `r power2`, which satisfies our expectations for statistical power of tests. The standard deviation of `r sd2`` is set.  
 
-
 ## Research Question
 
 **Relative to the on-demand service model, will the mean profit (EBIT) increase by employing the active service model in XBXB’s U.S. restaurants?**  
 
 ### Scenario 1: No Effect
-
 
 #### Single Experiment
 
@@ -328,7 +303,7 @@ single_exp_1 <- analyze.experiment(xbxb_1); single_exp_1
 pval1 <- round(single_exp_1$p, 2)
 ```
 
-There are a couple of possible reasons that could cause the proposed treatment (active service) to have no impact on the population's outcome. First of all, this will happen when we accept the null hypothesis. Like the first simulation, we purposely set both the active service and on-demand service mean profit to equal. Since the p-value is `r pval1`, we fail to reject the null hypothesis. Thus, the difference between on-demand service and active service will not bring a large difference in profit. If the study produced data like what we simulated, we will suggest XBXB remain in its current service pattern. Secondly, this will happen when we have a false positive. In our case, a false positive means active service will not bring more profit to the company in comparison to on-demand service but we falsely predict that it will. Because we already maximize our sample size to the population size, if a false positive still happened, then a lower alpha should eliminate the error. Last but not least, even though this is an experiment and we tried our best to eliminate confounding variables, there could still be other limitations and uncertainties which could impact the accuracy of our results. 
+There are a couple of possible reasons that could cause the proposed treatment (active service) to have no impact on the population's outcome. First of all, this will happen when we accept the null hypothesis. Like the first simulation, we purposely set both the active service and on-demand service mean profit to equal. Since the p-value is `r pval1`, we fail to reject the null hypothesis. Thus, the difference between on-demand service and active service will not bring a large difference in profit. If the study produced data like what we simulated, we will suggest XBXB remain in its current service pattern. Secondly, this will happen when we have a false positive. In our case, a false positive means active service will not bring more profit to the company in comparison to on-demand service but we falsely predict that it will. Because we already maximize our sample size to the population size, if a false positive still happened, then a lower alpha should eliminate the error. Last but not least, even though this is an experiment and we tried our best to eliminate confounding variables, there could still be other limitations and uncertainties which could impact the accuracy of our results.
 
 #### Repeated Experiments
 
@@ -374,9 +349,7 @@ mean_upper_ci_1 <- round(results_1_rep[, mean(upper_ci)], 2)
 
 In scenario 1, we have a slightly positive mean effect of `r mean_effect_1`. However, according to the 95% confidence intervals (CI) of the mean effect, an effect should at least reach `r mean_upper_ci_1` to have statistical significance. This indicates that, on average, the 1000 experiments of scenario one can not reject the null hypothesis and that there is no significant difference between the profit of on-demand and active service restaurants of XBXB. This conclusion is further supported by a `r FP`% false-positive rate and a corresponding `r TN`% true negative rate. We assumed a confidence interval of 95% and ideally should correspondingly have a false positive rate of 5%. This 1000 experiments repetition generates an even lower figure of `r FP``%. This indicates that a 1000 time repetition may be already confident enough (with 95% CI standard) to generate conclusions that are in line with the real situation that on-demand and active service makes no significant difference in profit between XBXB restaurants.  
 
-
 ### Scenario 2: An Expected Effect
-
 
 #### Single Experiment
 
@@ -445,7 +418,6 @@ In scenario 2, we have a meaningful effect of `r mean_effect_2` which is far low
 
 ### Results
 
-
 ```{r echo = F}
 results <- data.frame(Research_question = c(1, 1),
                       Scenario = c("No effect", 7913),
@@ -466,9 +438,7 @@ colnames(results) <- c("Research Question",
 datatable(results)
 ```
 
-
 ## References
-
 
 Bowen, J. T., & Chen, S. (2001). The relationship between customer loyalty and customer satisfaction. *International Journal of Contemporary Hospitality Management*, 13(4), 213-217. <http://dx.doi.org/10.1108/09596110110395893>  
   
