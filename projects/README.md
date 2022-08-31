@@ -2,7 +2,8 @@
 
   - [Reddit’s r wallstreetbets and Stock Market](#reddits-r-wallstreetbets-and-stock-market)
   - [Research Study Proposal](#research-study-proposal)  
-  - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors]()
+  - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#us-universities-graduates-earnings-breakdown-by-schools-and-majors)
+  - [The Impact of COVID-19 in the U.S. and the World]()
 
 ## Reddit’s r/wallstreetbets and Stock Market
 
@@ -31,3 +32,10 @@
 Deciding what schools and majors to enroll in could be a life-pivotal decision for many. To help people make more informed decision on this crucial concern, a visual demonstration of what graduates from different schools and majors are earning in their starting and mid-career salaries is created in Tableau. This visualization makes it easy to compare the graduates' earnings from different school and majors.
 
 [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors Visualization](https://public.tableau.com/views/SchoolsMajorsSalaryVisualization_16089392679970/SchoolsMajorsSalaryVisualization?:language=en-US&:toolbar=n&:display_count=n&:origin=viz_share_link)
+
+## The Impact of COVID-19 in the U.S. and the World
+
+### Description 
+Created a visualization in Tableau to demonstration the impact that COVID-19 pandemic has in the U.S. and the world in terms of the number of confirmed cases.  
+
+[The Impact of COVID-19 in the U.S. and the World Visualization](https://public.tableau.com/views/ImpactofCOVID-19_16089411318970/ImpactOfCOVID-19?:language=en-US&:toolbar=n&:display_count=n&:origin=viz_share_link)
