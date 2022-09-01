@@ -28,7 +28,7 @@
 ## U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors  
 
 ### Description
-(It is well known that university tuition in the U.S. is high)/(The U.S. university tuition is one of the highest in the world). To justify the significant financial investment in university education, many may consider the amount that they will earn after graduation when deciding schools and majors to enroll in.  
+In the U.S., on average, a private university's tuition costs [$38,185](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic); a public university tuition costs [$22,698](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic). University tuition can account for at least [34%](https://www.census.gov/library/publications/2021/demo/p60-273.html) of a typical household's annual income. To justify the significant financial investment in university education, many may consider the amount that they will earn after graduation when deciding schools and majors to enroll in.  
 Deciding what schools and majors to enroll in could be a life-pivotal decision for many. To help people make more informed decision on this crucial concern, a visual demonstration of what graduates from different schools and majors are earning in their starting and mid-career salaries is created in Tableau. This visualization makes it easy to compare the graduates' earnings from different school and majors.
 
 [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors Visualization](https://public.tableau.com/views/SchoolsMajorsSalaryVisualization_16089392679970/SchoolsMajorsSalaryVisualization?:language=en-US&:toolbar=n&:display_count=n&:origin=viz_share_link)
