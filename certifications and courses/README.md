@@ -30,6 +30,8 @@ I always devote time to learn the subjects that will make myself more competent 
       - Demonstrated ability to convey outcome of the analysis and its relevance in the business context
       - Demonstrated ability to reinforce the importance of the proposed solutions  
 
-### Professional Data Scientist Certificate - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
+### Professional Data Scientist Certificate - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
+
+*In Progress as of 09/01/2021*
 
 ## Courses
