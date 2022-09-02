@@ -28,7 +28,8 @@ I always devote time to learn the subjects that will make myself more competent 
       - A non-technical audience as the indented audience
       - Demonstrated ability to communicate analytical concepts in a manner that audience with no relevant background could understand
       - Demonstrated ability to convey outcome of the analysis and its relevance in the business context
-      - Demonstrated ability to reinforce the importance of the proposed solutions
+      - Demonstrated ability to reinforce the importance of the proposed solutions  
 
+### Professional Data Scientist Certificate - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
 
 ## Courses
