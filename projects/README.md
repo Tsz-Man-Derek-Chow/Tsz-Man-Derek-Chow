@@ -7,7 +7,9 @@
 
 ## Reddit’s r/wallstreetbets and Stock Market
 
-### Description
+### Description  
+Nowadays, investors use social media as part of their input to make investment decisions <sub>[1](https://m1.com/about/newsroom/financial-wellness-survey-release/), [2](https://www.fool.com/research/what-are-gen-z-millennial-investors-buying/)</sub>. This behavior is examined and confirmed by numerous [studies](https://www.amity.edu/gwalior/jccc/pdf/dec-24.pdf). In addition, Reddit’s r/wallstreetbet forum initiated the notorious “meme stock” frenzy in early 2021 to combat wall street investment firms. These factors made it intriguing to investigate the relationship between Reddit’s r/wallstreetbet forum and the stock market.
+
 - Assessed how the sentiments reflected on r/wallstreetbets’ posts and comments related to the stock market  
 - Parsed sentiments from unstructured r/wallstreetbets’ posts and comments text using R
 - Performed correlation analysis to examine the association between r/wallstreetbets’ sentiments and stock prices
@@ -28,7 +30,7 @@
 ## U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors  
 
 ### Description
-In the U.S., on average, a private university's tuition costs [$38,185](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic); a public university's tuition costs [$22,698](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic). University tuition can account for at least [34%](https://www.census.gov/library/publications/2021/demo/p60-273.html) of a typical household's annual income. To justify the significant financial investment in university education, many may consider the amount that they will earn after graduation when deciding on schools and majors to enroll in.  
+In the U.S., on average, a private university's tuition costs [\$38,185](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic); a public university's tuition costs [\$22,698](https://www.usnews.com/education/best-colleges/paying-for-college/articles/paying-for-college-infographic). University tuition can account for at least [34%](https://www.census.gov/library/publications/2021/demo/p60-273.html) of a typical household's annual income. To justify the significant financial investment in university education, many may consider the amount that they will earn after graduation when deciding on schools and majors to enroll in.  
 
 Deciding what schools and majors to enroll in could be a life-pivotal decision for many. To help people make more informed decision on this crucial concern, a visual demonstration of what graduates from different schools and majors are earning in their starting and mid-career salaries is created in Tableau. This visualization makes it easy to compare the graduates' earnings from different school and majors.
 
