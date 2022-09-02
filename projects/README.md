@@ -5,7 +5,7 @@
   - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#us-universities-graduates-earnings-breakdown-by-schools-and-majors)
   - [The Impact of COVID-19 in the U.S. and the World](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#the-impact-of-covid-19-in-the-us-and-the-world)
 
-## Reddit’s r/wallstreetbets and Stock Market
+## Reddit’s [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) and Stock Market
 
 ### Description  
 Nowadays, investors use social media as part of their input to make investment decisions <sub>[1](https://m1.com/about/newsroom/financial-wellness-survey-release/), [2](https://www.fool.com/research/what-are-gen-z-millennial-investors-buying/)</sub>. This behavior is examined and confirmed by numerous [studies](https://www.amity.edu/gwalior/jccc/pdf/dec-24.pdf). In addition, Reddit’s r/wallstreetbet forum initiated the notorious “meme stock” frenzy in early 2021 to combat wall street investment firms. These factors made it intriguing to investigate the relationship between Reddit’s r/wallstreetbet forum and the stock market.
