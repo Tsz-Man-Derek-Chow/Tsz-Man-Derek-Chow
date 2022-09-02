@@ -20,7 +20,10 @@ Nowadays, investors use social media as part of their input to make investment d
 
 ## Research Study Proposal
 
-### Description
+### Description  
+
+This research study investigates the profitability of employing the conventional on-demand service model compared to the novel active service model in a casual dining context.  
+
 - Constructed causal research proposal with detailed research design, operational procedures, and statistical analysis plan for casual dining restaurants to understand the relationship between service quality and profitability.
 - Simulated multiple scenarios of the proposed study using R to anticipate how the research design could be affected in operation.
 
