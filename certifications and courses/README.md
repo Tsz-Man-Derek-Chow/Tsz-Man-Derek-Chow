@@ -49,4 +49,24 @@ Completed 57 courses, 8 tracks, and 16 projects.
 - [Hypothesis Testing in R](https://www.datacamp.com/courses/hypothesis-testing-in-r) - [statement of accomplishment](https://drive.google.com/file/d/106PBTvyG-4PYQ5gfm4NYjcRgAeNEcnvc/view?usp=sharing)  
 - [Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python) - [statement of accomplishment](https://drive.google.com/file/d/1DNHHeg8k_7KQC4i2yFrQQ3Stg5CtY296/view?usp=sharing)  
 
-### [Master of Science in Applied Analytics](https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses) - <a href="https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses"><img src="https://drive.google.com/uc?id=1c5oB2F9Gp1MlKOy_k8fLn7MCrkpAATP4" width="170"></a>
+### <a href="https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses"><img src="https://drive.google.com/uc?id=1c5oB2F9Gp1MlKOy_k8fLn7MCrkpAATP4" width="240"></a>  
+
+[Master of Science in Applied Analytics](https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses)  
+
+#### Completed courses:  
+
+- Python for Data Analysis
+- Research Design
+- Applied Analytics Frameworks and Methods I
+- Applied Analytics Frameworks and Methods II
+- Storytelling with Data
+- Managing Data
+- Data Analytics Using SQL and Relational Databases  
+- Strategy and Analytics  
+- Applied Analytics in the Organizational Context
+
+#### Courses in progress:  
+
+- Solving Real World Problems with Analytics (Capstone)  
+- Anomaly Detection  
+- Analytics and Leading Change  
