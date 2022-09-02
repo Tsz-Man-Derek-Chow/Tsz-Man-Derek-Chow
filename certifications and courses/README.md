@@ -40,7 +40,7 @@ Devoted 300+ hours on the platform to advance competency in data analytics techn
 
 Completed 57 courses, 8 tracks, and 16 projects.  
 
-#### Glimpse of completed courses and tracks:  
+#### Glimpse of courses and tracks completed:  
 
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) - [statement of accomplishment](https://drive.google.com/file/d/19QrYnuL3v1rWdw2VLXXMBDxb1-CzxOP0/view?usp=sharing)  
 - [Data Analyst with R](https://www.datacamp.com/tracks/data-analyst-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1FT4v7-WFQpN5lRMI8Psvhbh1Md_9Cqnd/view?usp=sharing)  
@@ -53,7 +53,7 @@ Completed 57 courses, 8 tracks, and 16 projects.
 
 [Master of Science in Applied Analytics](https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses)  
 
-#### Completed courses:  
+#### Courses completed:  
 
 - Python for Data Analysis
 - Research Design
