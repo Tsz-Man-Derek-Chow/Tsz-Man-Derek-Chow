@@ -35,3 +35,4 @@ I always devote time to learn the subjects that will make myself more competent 
 *In Progress as of 09/01/2021*
 
 ## Courses
+### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
