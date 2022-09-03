@@ -1,6 +1,6 @@
 # Projects
 
-  - [Reddit’s r wallstreetbets and Stock Market](#reddits-r-wallstreetbets-and-stock-market)
+  - [Reddit’s r wallstreetbets and Stock Market](#description)
   - [Research Study Proposal](#research-study-proposal)  
   - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#us-universities-graduates-earnings-breakdown-by-schools-and-majors)
   - [The Impact of COVID-19 in the U.S. and the World](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#the-impact-of-covid-19-in-the-us-and-the-world)
