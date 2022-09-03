@@ -1,9 +1,9 @@
 # Projects
 
-  - [Reddit’s r wallstreetbets and Stock Market](#description)
+  - [Reddit’s r wallstreetbets and Stock Market](#reddits-rwallstreetbets-and-stock-market)
   - [Research Study Proposal](#research-study-proposal)  
-  - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#us-universities-graduates-earnings-breakdown-by-schools-and-majors)
-  - [The Impact of COVID-19 in the U.S. and the World](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects#the-impact-of-covid-19-in-the-us-and-the-world)
+  - [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors](#us-universities-graduates-earnings-breakdown-by-schools-and-majors)
+  - [The Impact of COVID-19 in the U.S. and the World](#the-impact-of-covid-19-in-the-us-and-the-world)
 
 ## Reddit’s [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) and Stock Market  
 
@@ -44,7 +44,9 @@ Deciding what schools and majors to enroll in could be a life-pivotal decision f
 
 [U.S. Universities Graduates’ Earnings: Breakdown by Schools and Majors Visualization](https://public.tableau.com/views/SchoolsMajorsSalaryVisualization_16089392679970/SchoolsMajorsSalaryVisualization?:language=en-US&:toolbar=n&:display_count=n&:origin=viz_share_link)
 
-## The Impact of COVID-19 in the U.S. and the World
+## The Impact of COVID-19 in the U.S. and the World  
+
+<a href="https://public.tableau.com/views/ImpactofCOVID-19_16089411318970/ImpactOfCOVID-19?:language=en-US&:toolbar=n&:display_count=n&:origin=viz_share_link"><img src="https://drive.google.com/uc?id=1ChQxCBgO8SC4MQZEDdtAw6k8VZ5cY--U" width="400" height="200"></a> 
 
 ### Description 
 Created a visualization in Tableau to demonstrate the impact that the COVID-19 pandemic has on the U.S. and the world in terms of the number of confirmed cases.
