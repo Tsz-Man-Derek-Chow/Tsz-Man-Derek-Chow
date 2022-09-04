@@ -28,7 +28,7 @@ Nowadays, investors use social media as part of their input to make investment d
 
 ### Description  
 
-**Skills**: Research Design, R, Statistical Analysis  
+**Skills**: Research Design, Statistical Analysis, R  
 
 This research study investigates the profitability of employing the conventional on-demand service model compared to the novel active service model in a casual dining context.  
 
