@@ -11,7 +11,7 @@
 
 ### Description  
 
-**Skills**: Python, R, Sentiment Analysis, Statistical Analysis  
+**Skills**: Python, R, Text Mining, Sentiment Analysis, Statistical Analysis  
 
 Nowadays, investors use social media as part of their input to make investment decisions<sub>[1](https://m1.com/about/newsroom/financial-wellness-survey-release/), [2](https://www.fool.com/research/what-are-gen-z-millennial-investors-buying/)</sub>. This behavior is examined and confirmed by numerous studies<sub>[1](https://www.amity.edu/gwalior/jccc/pdf/dec-24.pdf), [2](https://www.psychosocial.com/article/PR300143/23091/)</sub>. In addition, Reddit’s r/wallstreetbet forum initiated the notorious “meme stock” frenzy in early 2021 to combat Wall Street investment firms<sub>[1](https://www.nytimes.com/2021/01/27/business/gamestop-wall-street-bets.html), [2](https://www.ft.com/content/56e8b33a-d9b6-4f74-998b-327ef54c4d5a)</sub>. These factors made it intriguing to investigate the relationship between Reddit’s r/wallstreetbet forum and the stock market.
 
