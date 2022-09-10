@@ -7,7 +7,7 @@
 
 ## Reddit’s [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) and Stock Market  
 
-<a href="https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market.pdf"><img src="https://drive.google.com/uc?id=1SP2qkPdya-03b9gIPmpp5qCIPzWsp-bt" width="400"></a>  
+<a href="https://drive.google.com/file/d/1TIuV_0wOojHJweLwGcp-8Htb2z2E3eVl/view?usp=sharing"><img src="https://drive.google.com/uc?id=1SP2qkPdya-03b9gIPmpp5qCIPzWsp-bt" width="400"></a>  
 
 ### Description  
 
@@ -19,7 +19,7 @@ Nowadays, investors use social media as part of their input to make investment d
 - Parsed sentiments from unstructured r/wallstreetbets’ posts and comments text using R
 - Performed correlation analysis to examine the association between r/wallstreetbets’ sentiments and stock prices
 
-[Summary presentation slides](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market.pdf)  
+[Summary presentation slides](https://drive.google.com/file/d/1TIuV_0wOojHJweLwGcp-8Htb2z2E3eVl/view?usp=sharing)  
 [Python codes used to retrieve posts and comments from r/wallstreetbets](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/blob/main/projects/Reddit%E2%80%99s%20r%20wallstreetbets%20and%20Stock%20Market/Retrieve%20r%20wallstreetbets'%20Posts%20and%20Comments.ipynb)  
 [R codes used to conduct analysis](http://rpubs.com/DCHOW99/940482)
 
