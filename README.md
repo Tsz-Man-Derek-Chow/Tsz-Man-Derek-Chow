@@ -12,5 +12,3 @@ This is a repository to showcase the projects, certifications, and courses I hav
 
 - [Projects](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/projects)
 - [Certifications and Courses](https://github.com/Tsz-Man-Derek-Chow/Tsz-Man-Derek-Chow/tree/main/certifications%20and%20courses)
-
-123
