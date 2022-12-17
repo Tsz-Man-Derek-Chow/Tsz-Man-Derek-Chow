@@ -3,6 +3,7 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
+- [Professional Data Analyst Certificate - DataCamp](#professional-data-analyst-certificate)
 [Courses](#courses)
 
 ## Certifications
