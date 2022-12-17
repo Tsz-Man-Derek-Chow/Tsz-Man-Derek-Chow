@@ -62,6 +62,10 @@ Completed 57 courses, 8 tracks, and 16 projects.
 - [Hypothesis Testing in R](https://www.datacamp.com/courses/hypothesis-testing-in-r) - [statement of accomplishment](https://drive.google.com/file/d/106PBTvyG-4PYQ5gfm4NYjcRgAeNEcnvc/view?usp=sharing)  
 - [Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python) - [statement of accomplishment](https://drive.google.com/file/d/1DNHHeg8k_7KQC4i2yFrQQ3Stg5CtY296/view?usp=sharing)  
 
+
+---  
+
+
 ### <a href="https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses"><img src="https://drive.google.com/uc?id=1c5oB2F9Gp1MlKOy_k8fLn7MCrkpAATP4" width="240"></a>  
 
 [Master of Science in Applied Analytics](https://sps.columbia.edu/academics/masters/applied-analytics/full-time-master-science/curriculum-courses)  
