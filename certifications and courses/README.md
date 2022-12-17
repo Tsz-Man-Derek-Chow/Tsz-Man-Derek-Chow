@@ -3,14 +3,14 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
-- [Professional Data Analyst Certificate](#-professional-data-analyst-certificate---) - DataCamp  
-- [Google Analytics Certification](#google-analytics-certification---) - Google  
+- [Professional Data Analyst Certification - DataCamp](#-professional-data-analyst-certification---)  
+- [Google Analytics Certification - Google](#google-analytics-certification---)  
   
 [Courses](#courses)
 
 ## Certifications
 
-### <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn"></a> [Professional Data Analyst Certificate](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
+### <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn"></a> [Professional Data Analyst Certification](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
 
 #### [Description](https://www.datacamp.com/certificate/DA0017572637299)
 
