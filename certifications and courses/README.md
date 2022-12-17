@@ -33,11 +33,15 @@ I always devote time to learn the subjects that will make myself more competent 
       - Demonstrated ability to convey outcome of the analysis and its relevance in the business context
       - Demonstrated ability to reinforce the importance of the proposed solutions  
 
+
 ---
+
 
 ### [Google Analytics Certification](https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt) - <a href="https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt"><img src="https://drive.google.com/uc?id=1JSFseZcc4QOWUg5d9DKWRULYK9bzXhdL" height= "30" ></a>  
 
+
 ---  
+
 
 ### Professional Data Scientist Certificate - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
