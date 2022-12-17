@@ -3,10 +3,10 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
-- [Professional Data Analyst Certificate - DataCamp](##-professional-data-analyst-certificate---)  
-- [Google Analytics Certification - Google](#google-analytics-certification---)  
+- [Professional Data Analyst Certificate](##-professional-data-analyst-certificate---) - DataCamp  
+- [Google Analytics Certification](#google-analytics-certification---) - Google  
   
-[Courses](#courses---)
+[Courses](#courses)
 
 ## Certifications
 
@@ -38,7 +38,6 @@ I always devote time to learn the subjects that will make myself more competent 
 
 
 ### [Google Analytics Certification](https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt) - <a href="https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt"><img src="https://drive.google.com/uc?id=1JSFseZcc4QOWUg5d9DKWRULYK9bzXhdL" height= "30" ></a>  
-
 
 ---  
 
