@@ -3,7 +3,9 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
-- [Professional Data Analyst Certificate - DataCamp](#professional-data-analyst-certificate)
+- [Professional Data Analyst Certificate - DataCamp](#professional-data-analyst-certificate)  
+- [Google Analytics Certification - Google](#google-analytics-certification)  
+  
 [Courses](#courses)
 
 ## Certifications
@@ -31,6 +33,12 @@ I always devote time to learn the subjects that will make myself more competent 
       - Demonstrated ability to convey outcome of the analysis and its relevance in the business context
       - Demonstrated ability to reinforce the importance of the proposed solutions  
 
+---
+
+### [Google Analytics Certification](https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt) - <a href="https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt"><img src="https://drive.google.com/uc?id=1JSFseZcc4QOWUg5d9DKWRULYK9bzXhdL" height= "30" ></a>  
+
+---  
+
 ### Professional Data Scientist Certificate - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
 *In Progress as of 12/17/2021*
@@ -56,18 +64,14 @@ Completed 57 courses, 8 tracks, and 16 projects.
 
 #### Courses completed:  
 
-- Python for Data Analysis
-- Research Design
+- Python for Data Analysis  
+- Data Analytics Using SQL and Relational Databases  
+- Research Design  
+- Storytelling with Data
+- Anomaly Detection  
+- Solving Real World Problems with Analytics (Capstone)  
 - Applied Analytics Frameworks and Methods I
 - Applied Analytics Frameworks and Methods II
-- Storytelling with Data
-- Managing Data
-- Data Analytics Using SQL and Relational Databases  
+- Managing Data  
 - Strategy and Analytics  
-- Applied Analytics in the Organizational Context
-
-#### Courses in progress:  
-
-- Solving Real World Problems with Analytics (Capstone)  
-- Anomaly Detection  
-- Analytics and Leading Change  
+- Applied Analytics in the Organizational Context  
