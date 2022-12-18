@@ -58,6 +58,7 @@ Completed 57 courses, 8 tracks, and 16 projects.
 
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) - [statement of accomplishment](https://drive.google.com/file/d/19QrYnuL3v1rWdw2VLXXMBDxb1-CzxOP0/view?usp=sharing)  
 - [Data Analyst with R](https://www.datacamp.com/tracks/data-analyst-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1FT4v7-WFQpN5lRMI8Psvhbh1Md_9Cqnd/view?usp=sharing)  
+- [SQL for Business Analysts](https://www.datacamp.com/tracks/sql-for-business-analysts) - [statement of accomplishment](https://drive.google.com/file/d/1zAKxKNcRMLqfH5XnxrTJzmcOX07VuIYM/view?usp=share_link)  
 - [SQL Fundamentals](https://www.datacamp.com/tracks/sql-fundamentals) - [statement of accomplishment](https://drive.google.com/file/d/1i8DBK4M_VrtnuDW-gMfRQvpfXzVSBz81/view?usp=sharing)  
 - [Statistics Fundamentals with R](https://www.datacamp.com/tracks/learn-statistics-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1WiZ8daOuGU760WtAyVtzKCJWABX-YjQR/view?usp=sharing)  
 - [Hypothesis Testing in R](https://www.datacamp.com/courses/hypothesis-testing-in-r) - [statement of accomplishment](https://drive.google.com/file/d/106PBTvyG-4PYQ5gfm4NYjcRgAeNEcnvc/view?usp=sharing)  
