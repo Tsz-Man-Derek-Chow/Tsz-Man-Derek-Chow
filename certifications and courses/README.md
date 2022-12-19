@@ -52,7 +52,7 @@ I always devote time to learn the subjects that will make myself more competent 
 ### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
 Devoted 300+ hours on the platform to advance competency in data analytics techniques and concepts.  
 
-Completed 61 courses, 9 tracks, and 17 projects.  
+Completed 62 courses, 9 tracks, and 18 projects.  
 
 #### Glimpse of courses and tracks completed:  
 
