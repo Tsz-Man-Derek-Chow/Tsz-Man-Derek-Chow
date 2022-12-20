@@ -14,8 +14,8 @@ I always devote time to learn the subjects that will make myself more competent 
 
 #### [Description](https://www.datacamp.com/certificate/DA0017572637299)
 
-- Completed timed assessments to display proficiency to understand, interpret, and implement core statistical concepts.  
-- Completed free form coding challenges to demonstrate proficiency in Python, R, and SQL to derive appropriate analytical solutions without explicit guidance  
+- Completed timed assessments to display proficiency to understand, interpret, and implement core **statistical concepts**.  
+- Completed free form coding challenges to demonstrate proficiency in **Python**, **SQL**, and **R** to derive appropriate analytical solutions without explicit guidance  
   - This includes:
     - Exploratory analysis
     - Data extraction, cleaning, transformation
