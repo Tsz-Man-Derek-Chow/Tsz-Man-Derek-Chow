@@ -3,8 +3,16 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
-- [Professional Data Analyst Certification - DataCamp](#-professional-data-analyst-certification---)  
-- [Google Analytics Certification - Google](#google-analytics-certification---)  
+- [Certifications and Courses](#certifications-and-courses)
+  - [Certifications](#certifications)
+    - [ Professional Data Analyst Certification - ](#-professional-data-analyst-certification---)
+      - [Description](#description)
+    - [Google Analytics Certification - ](#google-analytics-certification---)
+    - [Professional Data Scientist Certification - ](#professional-data-scientist-certification---)
+  - [Courses](#courses)
+    - [](#)
+    - [](#-1)
+      - [Courses completed:](#courses-completed)
   
 [Courses](#courses)
 
@@ -52,9 +60,9 @@ I always devote time to learn the subjects that will make myself more competent 
 ### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
 Devoted 300+ hours on the platform to advance competency in data analytics techniques and concepts.  
 
-Completed 62 courses, 9 tracks, and 18 projects.  
+Completed 63 courses, 9 tracks, and 19 projects.  
 
-#### Glimpse of courses and tracks completed:  
+Glimpse of courses and tracks completed:  
 
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) - [statement of accomplishment](https://drive.google.com/file/d/19QrYnuL3v1rWdw2VLXXMBDxb1-CzxOP0/view?usp=sharing)  
 - [Data Analyst with R](https://www.datacamp.com/tracks/data-analyst-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1FT4v7-WFQpN5lRMI8Psvhbh1Md_9Cqnd/view?usp=sharing)  
