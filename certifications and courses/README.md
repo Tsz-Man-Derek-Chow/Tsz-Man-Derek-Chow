@@ -3,17 +3,10 @@
 I always devote time to learn the subjects that will make myself more competent in deriving meaningful insights from data so that I can answer the questions that are central to me with robust supporting evidence.  
 
 [Certifications](#certifications)  
-- [Certifications and Courses](#certifications-and-courses)
-  - [Certifications](#certifications)
-    - [ Professional Data Analyst Certification - ](#-professional-data-analyst-certification---)
-      - [Description](#description)
-    - [Google Analytics Certification - ](#google-analytics-certification---)
-    - [Professional Data Scientist Certification - ](#professional-data-scientist-certification---)
-  - [Courses](#courses)
-    - [](#)
-    - [](#-1)
-      - [Courses completed:](#courses-completed)
-  
+<!-- no toc -->
+  - [ Professional Data Analyst Certification](#-professional-data-analyst-certification---)  
+  - [Google Analytics Certification](#google-analytics-certification---)  
+
 [Courses](#courses)
 
 ## Certifications
