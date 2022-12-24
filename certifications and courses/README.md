@@ -45,7 +45,7 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ### Professional Data Scientist Certification - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
-*In Progress as of 12/20/2022*  
+*In Progress as of 12/24/2022*  
 
 ---  
 
@@ -53,14 +53,14 @@ I always devote time to learn the subjects that will make myself more competent 
 ### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
 Devoted 300+ hours on the platform to advance competency in data analytics techniques and concepts.  
 
-Completed 63 courses, 9 tracks, and 19 projects.  
+Completed 65 courses, 9 tracks, and 19 projects.  
 
 Glimpse of courses and tracks completed:  
 
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) - [statement of accomplishment](https://drive.google.com/file/d/19QrYnuL3v1rWdw2VLXXMBDxb1-CzxOP0/view?usp=sharing)  
 - [Data Analyst with R](https://www.datacamp.com/tracks/data-analyst-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1FT4v7-WFQpN5lRMI8Psvhbh1Md_9Cqnd/view?usp=sharing)  
 - [SQL for Business Analysts](https://www.datacamp.com/tracks/sql-for-business-analysts) - [statement of accomplishment](https://drive.google.com/file/d/1zAKxKNcRMLqfH5XnxrTJzmcOX07VuIYM/view?usp=share_link)  
-- [SQL Fundamentals](https://www.datacamp.com/tracks/sql-fundamentals) - [statement of accomplishment](https://drive.google.com/file/d/1i8DBK4M_VrtnuDW-gMfRQvpfXzVSBz81/view?usp=sharing)  
+- [SQL Fundamentals](https://www.datacamp.com/tracks/sql-fundamentals) - [statement of accomplishment](https://drive.google.com/file/d/1jGHoVB7-8dTCiTioWm6YGOOItAPcEgVy/view?usp=share_link)  
 - [Statistics Fundamentals with R](https://www.datacamp.com/tracks/learn-statistics-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1WiZ8daOuGU760WtAyVtzKCJWABX-YjQR/view?usp=sharing)  
 - [Hypothesis Testing in R](https://www.datacamp.com/courses/hypothesis-testing-in-r) - [statement of accomplishment](https://drive.google.com/file/d/106PBTvyG-4PYQ5gfm4NYjcRgAeNEcnvc/view?usp=sharing)  
 - [Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python) - [statement of accomplishment](https://drive.google.com/file/d/1DNHHeg8k_7KQC4i2yFrQQ3Stg5CtY296/view?usp=sharing)  
