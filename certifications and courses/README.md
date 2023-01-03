@@ -45,7 +45,7 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ### Professional Data Scientist Certification - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
-*In Progress as of 12/24/2022*  
+*In Progress as of 01/03/2023*  
 
 ---  
 
