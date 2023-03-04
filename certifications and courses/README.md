@@ -45,7 +45,7 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ### Professional Data Scientist Certification - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
-*In Progress as of 01/03/2023*  
+*In Progress as of 03/04/2023*  
 
 ---  
 
@@ -57,6 +57,7 @@ Completed 65 courses, 9 tracks, and 19 projects.
 
 Glimpse of courses and tracks completed:  
 
+- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r) - [statement of accomplishment](https://drive.google.com/file/d/18rgo6ELJJn40ZyiU-sMZxJVYDtvyImzw/view?usp=share_link)  
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) - [statement of accomplishment](https://drive.google.com/file/d/19QrYnuL3v1rWdw2VLXXMBDxb1-CzxOP0/view?usp=sharing)  
 - [Data Analyst with R](https://www.datacamp.com/tracks/data-analyst-with-r) - [statement of accomplishment](https://drive.google.com/file/d/1FT4v7-WFQpN5lRMI8Psvhbh1Md_9Cqnd/view?usp=sharing)  
 - [SQL for Business Analysts](https://www.datacamp.com/tracks/sql-for-business-analysts) - [statement of accomplishment](https://drive.google.com/file/d/1zAKxKNcRMLqfH5XnxrTJzmcOX07VuIYM/view?usp=share_link)  
