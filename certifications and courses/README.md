@@ -45,7 +45,7 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ### Professional Data Scientist Certification - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
 
-*In Progress as of 03/09/2023*  
+*In Progress as of 03/28/2023*  
 
 ---  
 
@@ -53,7 +53,7 @@ I always devote time to learn the subjects that will make myself more competent 
 ### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
 Devoted 300+ hours on the platform to advance competency in data analytics techniques and concepts.  
 
-Completed 73 courses, 11 tracks, and 19 projects.  
+Completed 78 courses, 14 tracks, and 20 projects.  
 
 Glimpse of courses and tracks completed:  
 
