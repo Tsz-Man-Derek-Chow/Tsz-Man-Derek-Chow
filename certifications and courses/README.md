@@ -4,14 +4,21 @@ I always devote time to learn the subjects that will make myself more competent 
 
 [Certifications](#certifications)  
 <!-- no toc -->
+  - [ Professional Data Scientist Certification](#-professional-data-scientist-certification---)
   - [ Professional Data Analyst Certification](#-professional-data-analyst-certification---)  
   - [Google Analytics Certification](#google-analytics-certification---)  
 
 [Courses](#courses)
 
-## Certifications
+## Certifications  
 
-### <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn"></a> [Professional Data Analyst Certification](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
+### <a href="https://www.datacamp.com/certificate/DS0027466722167"><img src="https://drive.google.com/uc?id=1bJcBfw2cbgaNXtdBUDpwSIC9EUS_T5cf" width="70"></a> [Professional Data Scientist Certification](https://drive.google.com/uc?export=view&id=1sZF8JyG9dCS1KYD8p1p7e1lIEQL2TzUj) - <a href="https://www.datacamp.com/certificate/DS0027466722167"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
+
+#### [Description](https://www.datacamp.com/certificate/DS0027466722167)  
+
+---  
+
+### <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=1e_hAT_wGVY7fMukWqRqZBPcsUN5yxpUn" width="70"></a> [Professional Data Analyst Certification](https://drive.google.com/uc?export=view&id=1M1H8UrQXcgMuSL6U2TiMlN_K8ln0TIFp) - <a href="https://www.datacamp.com/certificate/DA0017572637299#"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>
 
 #### [Description](https://www.datacamp.com/certificate/DA0017572637299)
 
@@ -37,23 +44,15 @@ I always devote time to learn the subjects that will make myself more competent 
 
 ---
 
-
 ### [Google Analytics Certification](https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt) - <a href="https://skillshop.exceedlms.com/student/award/4WXw2TxA2WfrwytsLHJ7Q1Tt"><img src="https://drive.google.com/uc?id=1JSFseZcc4QOWUg5d9DKWRULYK9bzXhdL" height= "30" ></a>  
 
 ---  
 
-
-### Professional Data Scientist Certification - <a href="https://www.datacamp.com/certification/data-scientist"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="110"></a>  
-
-*In Progress as of 03/28/2023*  
-
----  
-
-## Courses
+## Courses  
 ### <a href="https://www.datacamp.com/courses-all"><img src="https://drive.google.com/uc?id=19nmf8gkikLWx7N0Ez_1uJNbslbUHfCel" width="200"></a> 
 Devoted 360+ hours on the platform to advance competency in data analytics techniques and concepts.  
 
-Completed 78 courses, 14 tracks, and 20 projects.  
+Completed 81 courses, 15 tracks, and 20 projects.  
 
 Glimpse of courses and tracks completed:  
 
